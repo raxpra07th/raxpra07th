@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**raxpra07th/raxpra07th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ram Prasath K 👋
 
-Here are some ideas to get you started:
+### Final-Year Electronics and Communication Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm interested in software development, programming,
+and embedded systems.
+
+## About Me
+- 🎓 Final-Year ECE Student
+- 💻 Learning C, Java, and SQL
+- 🔌 Interested in Embedded Systems
+- 🌱 Improving my programming skills
+
+## Technical Skills
+- C Programming
+- Embedded C
+- Basic Java
+- SQL
+- Digital Electronics
+
+## Career Goals
+- Build practical projects
+- Improve problem-solving skills
+- Learn new technologies
+- Start my professional career
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ram-prasath-3927462a0/
+
+---
+Thank you for visiting my profile! ⭐
